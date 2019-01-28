@@ -30,8 +30,7 @@ Check that the output ends with mtec1002 (something like this: /Users/joe/mtec10
 If it doesn't start at #1 again, or ask for help before moving on!
 
 Copy and paste the output of pwd below.
-----------
-
+----------/Users/student/MTEC1002
 
 
 ==========
@@ -41,8 +40,10 @@ $ mkdir animals
 $ ls
 
 Copy and paste the output below.
-----------
-
+---------- mkdir animals
+ent-v314-005:MTEC1002 student$ ls
+animals
+ent-v314-005:MTEC1002
 
 
 ==========
@@ -52,8 +53,10 @@ $ mkdir food
 $ ls
 
 Copy and paste the output below.
-----------
-
+----------ent-v314-005:MTEC1002 student$ mkdir food
+ent-v314-005:MTEC1002 student$ ls
+animals	food
+ent-v314-005:MTEC1002 student$ 
 
 
 ==========
