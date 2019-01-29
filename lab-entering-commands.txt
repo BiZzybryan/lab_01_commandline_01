@@ -49,7 +49,8 @@ $ ls -l Documents<ENTER>
 
 Copy and paste the first *two lines* of output below.
 ----------
-
+ bryan.pierrelouis02$ ls -1 Documents
+iChats
 
 
 ==========
@@ -58,7 +59,8 @@ Copy and paste the first *two lines* of output below.
 $ ls -a Documents
 
 Copy and paste the first *two lines* of output below.
-----------
+----------.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ 
 
 
 
@@ -69,8 +71,19 @@ Copy and paste the first *two lines* of output below.
 
 What command was repeated?
 ----------
-
-
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
+.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
+.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
+.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
+.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
+.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
+.		..		.localized	iChats
+V217-M13:~ bryan.pierrelouis02$ ls -a Documents
 
 ==========
 6.  Type:
@@ -78,7 +91,9 @@ What command was repeated?
 <UP><UP><UP><DOWN><ENTER>
 
 What command was repeated?
-----------
+----------ls -a Documentsclear
+ls: Documentsclear: No such file or directory
+V217-M13:~ bryan.pierrelouis02$ 
 
 
 
@@ -88,7 +103,8 @@ What command was repeated?
 $ ls /Vol<TAB><ENTER>
 
 What is the result of pressing tab?
-----------
+----------V217-M13:~ bryan.pierrelouis02$ ls /Volumes/
+Macintosh HD
 
 
 
@@ -98,37 +114,36 @@ What is the result of pressing tab?
 $ ls doesnotexist
 
 Copy and paste the output below.
-----------
-
+----------No such file or directory
 
 
 ==========
 9.  What key do I press to go to the previous command?
-----------
+---------- up key
 
 
 
 ==========
 10.  Name two flags that we used in this exercise.
-----------
+---------- ls -a document
 
 
 
 ==========
 11.  What key do I use to attempt to autocomplete a command or a file name?
-----------
+----------<Tab>,<Enter>
 
 
 
 ==========
 12.  What was the main command that we used throughout this exercise?
-----------
+----------ls
 
 
 
 ==========
 13.  Name one argument that we passed to the command.
-----------
+---------- I dont know, I dont remember
 
 
 
@@ -138,8 +153,9 @@ Copy and paste the output below.
 $ foo<ENTER>
 
 Copy and paste the output below.
-----------
-
+----------V217-M13:~ bryan.pierrelouis02$ foo
+-bash: foo: command not found
+V217-M13:~ bryan.pierrelouis02$ 
 
 
 ==========
@@ -148,8 +164,8 @@ Copy and paste the output below.
 <UP><ENTER>
 
 Copy and paste the output below.
-----------
-
+-----------bash: foo: command not found
+V217-M13:~ bryan.pierrelouis02$ 
 
 
 ==========
@@ -158,4 +174,4 @@ Copy and paste the output below.
 $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
-----------
+----------Prompt
