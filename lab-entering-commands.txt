@@ -143,7 +143,7 @@ Copy and paste the output below.
 
 ==========
 13.  Name one argument that we passed to the command.
----------- I dont know, I dont remember
+---------- Which clear
 
 
 
@@ -174,4 +174,4 @@ V217-M13:~ bryan.pierrelouis02$
 $ ls -a Desktop
 
 What is the command, flag, argument, and prompt?
-----------Prompt
+---------- Commands tell the CPU what to do, Arguments are what commands act on. Flags go after the commands but before the argument
